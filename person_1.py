@@ -88,4 +88,4 @@ while True:
     except(Exception) as error:
         print(f"Error: {error}")
         break
- print(people[0], people[1], people[2])
+print(people[0], people[1], people[2])
